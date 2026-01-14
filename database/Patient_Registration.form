@@ -1,0 +1,8 @@
+Patient_ID : Auto Number
+Patient_Name : Text
+Emergency_Level : Dropdown (Critical, Normal)
+Required_Bed : Dropdown (ICU, General)
+Insurance_Status : Dropdown (Pending, Approved)
+Patient_Status : Dropdown (Waiting, Admitted, Discharged)
+Assigned_Bed_ID : Lookup (Bed_Master)
+Admission_Time : Date-Time

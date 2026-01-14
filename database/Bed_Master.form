@@ -1,0 +1,4 @@
+Bed_ID : Auto Number
+Bed_Type : Dropdown (ICU, General)
+Bed_Status : Dropdown (Free, Occupied, Cleaning)
+Ward : Text

@@ -1,0 +1,4 @@
+Insurance_ID : Auto Number
+Patient_ID : Lookup (Patient_Registration)
+Approval_Status : Dropdown (Pending, Approved, Rejected)
+Delay_Hours : Number
