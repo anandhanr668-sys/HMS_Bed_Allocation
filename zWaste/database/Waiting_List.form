@@ -1,4 +1,0 @@
-Patient_ID : Lookup (Patient_Registration)
-Required_Bed : Dropdown (ICU, General)
-Priority : Dropdown (High, Medium)
-Waiting_Since : Date-Time

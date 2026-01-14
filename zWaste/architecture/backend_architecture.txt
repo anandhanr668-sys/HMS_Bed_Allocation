@@ -1,4 +1,0 @@
-Data Layer      : Forms (Zoho Creator Tables)
-Logic Layer     : Deluge Workflows
-Process Layer  : Bed Allocation + Insurance Handling
-Access Control : Role-Based Permissions
