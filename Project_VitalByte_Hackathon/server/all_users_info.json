@@ -1,0 +1,104 @@
+[
+  {
+    "id": 6,
+    "username": "demo_patient",
+    "email": "patient@hospital.com",
+    "role": "PATIENT"
+  },
+  {
+    "id": 4,
+    "username": "nurse_john",
+    "email": "nurse@hospital.com",
+    "role": "NURSE"
+  },
+  {
+    "id": 29,
+    "username": "lakshmi",
+    "email": "lakshmimanikkam789@gmail.com",
+    "role": "DOCTOR"
+  },
+  {
+    "id": 30,
+    "username": "devi",
+    "email": "lakshmimanikkam789@gmail.com",
+    "role": "DOCTOR"
+  },
+  {
+    "id": 15,
+    "username": "doctor_ravi",
+    "email": "ravi@hms.com",
+    "role": "DOCTOR"
+  },
+  {
+    "id": 7,
+    "username": "lab_john",
+    "email": "lab@hospital.com",
+    "role": "LAB_ASSISTANT"
+  },
+  {
+    "id": 17,
+    "username": "lab_test",
+    "email": "testlab@hms.com",
+    "role": "LAB_ASSISTANT"
+  },
+  {
+    "id": 27,
+    "username": "doctor_pro",
+    "email": "doctor@hms.com",
+    "role": "DOCTOR"
+  },
+  {
+    "id": 28,
+    "username": "lab_assistant_user",
+    "email": "lab@hms.com",
+    "role": "LAB_ASSISTANT"
+  },
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@hospital.com",
+    "role": "ADMIN"
+  },
+  {
+    "id": 3,
+    "username": "doctor_sarah",
+    "email": "doctor@hospital.com",
+    "role": "DOCTOR"
+  },
+  {
+    "id": 5,
+    "username": "front_jane",
+    "email": "frontdesk@hospital.com",
+    "role": "FRONT_DESK"
+  },
+  {
+    "id": 14,
+    "username": "lab@hms.com",
+    "email": "lab@hms.com",
+    "role": "LAB_ASSISTANT"
+  },
+  {
+    "id": 13,
+    "username": "lab_tech",
+    "email": "lab@hms.com",
+    "role": "LAB_ASSISTANT"
+  },
+  {
+    "id": 26,
+    "username": "nurse_staff",
+    "email": "nurse@hms.com",
+    "role": "NURSE"
+  },
+  {
+    "id": 25,
+    "username": "front_desk_user",
+    "email": "frontdesk@hms.com",
+    "role": "FRONT_DESK"
+  },
+  {
+    "id": 24,
+    "username": "admin_master",
+    "email": "admin@hms.com",
+    "role": "ADMIN"
+  }
+]

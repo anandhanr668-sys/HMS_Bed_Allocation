@@ -1,0 +1,7 @@
+visits: visit_id, patient_id, doctor_id, visit_type, priority, status, queue_number, check_in_time, discharge_time, created_by
+vitals: id, patient_id, spo2, bpm, bp_systolic, bp_diastolic, temperature, respiratory_rate, captured_by, timestamp, visit_id
+doctor_notes: note_id, visit_id, doctor_id, chief_complaint, diagnosis, treatment_plan, prescription_data, follow_up_date, timestamp, note_type, clinical_data, patient_id
+invoices: invoice_id, visit_id, generated_by, line_items, total_amount, discount, final_amount, status, payment_method, paid_at
+form_instances: instance_id, form_id, template_id, template_version, patient_id, visit_id, ordered_by, assigned_lab_user, status, ordered_at, completed_at, reviewed_at, reviewed_by, created_at, updated_at, report_pdf_url, is_deleted
+form_instance_values: value_id, instance_id, field_key, field_value, recorded_by, recorded_at
+patients: id, patient_id_str, first_name, last_name, age, gender, contact, status, risk_level, allocated_bed_id, registered_at, email, condition, symptoms, address, blood_type, date_of_birth

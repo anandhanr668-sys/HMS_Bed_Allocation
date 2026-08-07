@@ -1,0 +1,178 @@
+{
+  "id": 1,
+  "form_code": "SEMEN_ANALYSIS",
+  "form_name": "Semen Analysis Report",
+  "form_type": "LAB_REPORT",
+  "version_id": "1.0",
+  "schema_json": {
+    "fields": [
+      {
+        "id": "sec_Coll",
+        "type": "section",
+        "label": "COLLECTION DETAILS"
+      },
+      {
+        "id": "coll_1",
+        "type": "row_2",
+        "label": "Collection Mode",
+        "columns": [
+          "Sample Collection Type",
+          "Mode of Collection"
+        ]
+      },
+      {
+        "id": "coll_2",
+        "type": "row_2",
+        "label": "Timeline",
+        "columns": [
+          "Time of Collection",
+          "Time of Examination"
+        ]
+      },
+      {
+        "id": "coll_3",
+        "type": "row_2",
+        "label": "Other Details",
+        "columns": [
+          "Abstinence Period",
+          "Complete Collection"
+        ]
+      },
+      {
+        "id": "sec_Macro",
+        "type": "section",
+        "label": "MACROSCOPIC EXAMINATION"
+      },
+      {
+        "id": "macro_1",
+        "type": "row_2",
+        "label": "Vol & pH",
+        "columns": [
+          "Volume",
+          "pH"
+        ]
+      },
+      {
+        "id": "macro_2",
+        "type": "row_2",
+        "label": "App & Liq",
+        "columns": [
+          "Appearance",
+          "Time of Liquefaction"
+        ]
+      },
+      {
+        "id": "macro_3",
+        "type": "text",
+        "label": "Viscosity",
+        "width": "full"
+      },
+      {
+        "id": "sec_Micro",
+        "type": "section",
+        "label": "MICROSCOPIC EXAMINATION"
+      },
+      {
+        "id": "micro_1",
+        "type": "row_2",
+        "label": "Concentration",
+        "columns": [
+          "Sperm Concentration",
+          "Total Motile Progressive (TMSC)"
+        ]
+      },
+      {
+        "id": "micro_2",
+        "type": "row_2",
+        "label": "Counts",
+        "columns": [
+          "Total Sperm Number",
+          "Vitality"
+        ]
+      },
+      {
+        "id": "micro_3",
+        "type": "row_2",
+        "label": "Motility A/B",
+        "columns": [
+          "Rapid Progressive Motility(a)",
+          "Slow Progressive Motility(b)"
+        ]
+      },
+      {
+        "id": "micro_4",
+        "type": "row_2",
+        "label": "Motility C/D",
+        "columns": [
+          "Non-Progressive Motility(c)",
+          "Immotile Sperm"
+        ]
+      },
+      {
+        "id": "micro_5",
+        "type": "row_2",
+        "label": "Other Observation",
+        "columns": [
+          "Agglutination",
+          "Round Cells / HPF"
+        ]
+      },
+      {
+        "id": "micro_6",
+        "type": "text",
+        "label": "Other Cells / Debris",
+        "width": "full"
+      },
+      {
+        "id": "sec_Morph",
+        "type": "section",
+        "label": "MORPHOLOGY"
+      },
+      {
+        "id": "morph_1",
+        "type": "row_2",
+        "label": "Forms %",
+        "columns": [
+          "Normal Forms",
+          "Abnormal Forms"
+        ]
+      },
+      {
+        "id": "morph_2",
+        "type": "row_2",
+        "label": "Structure 1",
+        "columns": [
+          "Head Abnormalities",
+          "Midpiece Abnormalities"
+        ]
+      },
+      {
+        "id": "morph_3",
+        "type": "row_2",
+        "label": "Structure 2",
+        "columns": [
+          "Tail Abnormalities",
+          "Cytoplasmic Droplets"
+        ]
+      }
+    ]
+  },
+  "ui_config": {
+    "theme": "premium-indigo",
+    "layout": "standard",
+    "version": "2.0.pro",
+    "headerLogo": "",
+    "displayMode": "INLINE",
+    "headerTitle": "ASCAS FERTILITY AND WOMEN'S CENTRE",
+    "redirectUrl": "",
+    "formLocation": "LAB_INVESTIGATION",
+    "headerContact": "Unit-09 Quantum Block, Digital Medical District | +91 99 999 5555",
+    "headerSubtitle": "Department of Andrology",
+    "deploymentStatus": "PUBLISHED"
+  },
+  "is_active": true,
+  "created_by": null,
+  "created_at": "2026-02-11T07:44:30.250Z",
+  "updated_at": "2026-02-11T07:44:30.250Z",
+  "deleted_at": null
+}

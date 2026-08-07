@@ -1,0 +1,18 @@
+[
+  {
+    "form_id": "PATIENT_REGISTRATION",
+    "form_name": "Patient Registration Form"
+  },
+  {
+    "form_id": "FERTILITY_CASE_SHEET",
+    "form_name": "Fertility Case Sheet"
+  },
+  {
+    "form_id": "SEMEN_ANALYSIS_REPORT",
+    "form_name": "Semen Analysis Report"
+  },
+  {
+    "form_id": "NEW_PROFESSIONAL_FORM",
+    "form_name": "New Professional Form"
+  }
+]

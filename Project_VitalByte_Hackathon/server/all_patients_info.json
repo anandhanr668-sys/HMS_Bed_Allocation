@@ -1,0 +1,62 @@
+[
+  {
+    "patient_id_str": "P-TODAY-01",
+    "first_name": "John",
+    "last_name": "Doe",
+    "contact": "9876543210"
+  },
+  {
+    "patient_id_str": "P-TODAY-02",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "contact": "9876543211"
+  },
+  {
+    "patient_id_str": "P-YEST-01",
+    "first_name": "Alice",
+    "last_name": "Brown",
+    "contact": "9876543212"
+  },
+  {
+    "patient_id_str": "P-LW-01",
+    "first_name": "Bob",
+    "last_name": "Wilson",
+    "contact": "9876543213"
+  },
+  {
+    "patient_id_str": "P-LW-02",
+    "first_name": "Charlie",
+    "last_name": "Davis",
+    "contact": "9876543214"
+  },
+  {
+    "patient_id_str": "PAT-1770303073433",
+    "first_name": "pooja",
+    "last_name": "s",
+    "contact": "49894869845"
+  },
+  {
+    "patient_id_str": "PAT-1770304446245",
+    "first_name": "lavu",
+    "last_name": "K",
+    "contact": "899348593-8"
+  },
+  {
+    "patient_id_str": "PAT-1770363145706",
+    "first_name": "m.lakshmi",
+    "last_name": "K",
+    "contact": null
+  },
+  {
+    "patient_id_str": "PAT-1770480598785",
+    "first_name": "manikandan",
+    "last_name": "M",
+    "contact": "7945424218"
+  },
+  {
+    "patient_id_str": "PAT-1770530223326",
+    "first_name": "gowri",
+    "last_name": "v",
+    "contact": "3242434"
+  }
+]

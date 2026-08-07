@@ -1,0 +1,104 @@
+[
+  {
+    "username": "demo_patient",
+    "email": "patient@hospital.com",
+    "role": "PATIENT",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "lakshmi",
+    "email": "lakshmimanikkam789@gmail.com",
+    "role": "DOCTOR",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "devi",
+    "email": "lakshmimanikkam789@gmail.com",
+    "role": "DOCTOR",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "doctor_ravi",
+    "email": "ravi@hms.com",
+    "role": "DOCTOR",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "lab_test",
+    "email": "testlab@hms.com",
+    "role": "LAB_ASSISTANT",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "doctor_pro",
+    "email": "doctor@hms.com",
+    "role": "DOCTOR",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "nurse_staff",
+    "email": "nurse@hms.com",
+    "role": "NURSE",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "front_desk_user",
+    "email": "frontdesk@hms.com",
+    "role": "FRONT_DESK",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "admin_master",
+    "email": "admin@hms.com",
+    "role": "ADMIN",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "admin",
+    "email": "admin@hospital.com",
+    "role": "ADMIN",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "doctor_sarah",
+    "email": "doctor@hospital.com",
+    "role": "DOCTOR",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "nurse_john",
+    "email": "nurse@hospital.com",
+    "role": "NURSE",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "front_jane",
+    "email": "frontdesk@hospital.com",
+    "role": "FRONT_DESK",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "lab_assistant_user",
+    "email": "lab@hms.com",
+    "role": "LAB_ASSISTANT",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "lab@hms.com",
+    "email": "lab@hms.com",
+    "role": "LAB_ASSISTANT",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "lab_tech",
+    "email": "lab@hms.com",
+    "role": "LAB_ASSISTANT",
+    "status": "ACTIVE"
+  },
+  {
+    "username": "lab_john",
+    "email": "lab@hospital.com",
+    "role": "LAB_ASSISTANT",
+    "status": "ACTIVE"
+  }
+]

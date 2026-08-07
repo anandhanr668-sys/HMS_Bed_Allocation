@@ -1,0 +1,17 @@
+﻿ID: 6 | USER: demo_patient | EMAIL: patient@hospital.com | ROLE: PATIENT | STATUS: ACTIVE
+ID: 29 | USER: lakshmi | EMAIL: lakshmimanikkam789@gmail.com | ROLE: DOCTOR | STATUS: ACTIVE
+ID: 30 | USER: devi | EMAIL: lakshmimanikkam789@gmail.com | ROLE: DOCTOR | STATUS: ACTIVE
+ID: 15 | USER: doctor_ravi | EMAIL: ravi@hms.com | ROLE: DOCTOR | STATUS: ACTIVE
+ID: 17 | USER: lab_test | EMAIL: testlab@hms.com | ROLE: LAB_ASSISTANT | STATUS: ACTIVE
+ID: 27 | USER: doctor_pro | EMAIL: doctor@hms.com | ROLE: DOCTOR | STATUS: ACTIVE
+ID: 26 | USER: nurse_staff | EMAIL: nurse@hms.com | ROLE: NURSE | STATUS: ACTIVE
+ID: 25 | USER: front_desk_user | EMAIL: frontdesk@hms.com | ROLE: FRONT_DESK | STATUS: ACTIVE
+ID: 24 | USER: admin_master | EMAIL: admin@hms.com | ROLE: ADMIN | STATUS: ACTIVE
+ID: 1 | USER: admin | EMAIL: admin@hospital.com | ROLE: ADMIN | STATUS: ACTIVE
+ID: 3 | USER: doctor_sarah | EMAIL: doctor@hospital.com | ROLE: DOCTOR | STATUS: ACTIVE
+ID: 4 | USER: nurse_john | EMAIL: nurse@hospital.com | ROLE: NURSE | STATUS: ACTIVE
+ID: 5 | USER: front_jane | EMAIL: frontdesk@hospital.com | ROLE: FRONT_DESK | STATUS: ACTIVE
+ID: 28 | USER: lab_assistant_user | EMAIL: lab@hms.com | ROLE: LAB_ASSISTANT | STATUS: ACTIVE
+ID: 14 | USER: lab@hms.com | EMAIL: lab@hms.com | ROLE: LAB_ASSISTANT | STATUS: ACTIVE
+ID: 13 | USER: lab_tech | EMAIL: lab@hms.com | ROLE: LAB_ASSISTANT | STATUS: ACTIVE
+ID: 7 | USER: lab_john | EMAIL: lab@hospital.com | ROLE: LAB_ASSISTANT | STATUS: ACTIVE

@@ -1,0 +1,18 @@
+--- Checking Laboratory Tables ---
+Tables found: [
+  {
+    "table_name": "lab_orders"
+  }
+]
+Lab Assistants found: [
+  {
+    "id": 7,
+    "username": "lab_john",
+    "role": "LAB_ASSISTANT"
+  },
+  {
+    "id": 13,
+    "username": "lab_tech",
+    "role": "LAB_ASSISTANT"
+  }
+]
